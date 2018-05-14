@@ -66,6 +66,12 @@ It generates a _fat-jar_ in the `target` directory.
 
 To build the project, just use:
 
+windows
 ----
 java -jar target/vertx-start-project-1.0-SNAPSHOT-fat.jar -conf config/config.json
+----
+
+linux
+----
+java -jar vertx-start-project-1.0-SNAPSHOT-fat.jar -conf config/config.json
 ----
