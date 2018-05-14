@@ -61,3 +61,11 @@ mvn clean package
 ----
 
 It generates a _fat-jar_ in the `target` directory.
+
+== Run the project
+
+To build the project, just use:
+
+----
+java -jar target/vertx-start-project-1.0-SNAPSHOT-fat.jar -conf config/config.json
+----
