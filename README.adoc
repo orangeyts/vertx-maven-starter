@@ -62,7 +62,7 @@ mvn clean package
 
 It generates a _fat-jar_ in the `target` directory.
 
-== Run the project
+== Run the project on Command
 
 To build the project, just use:
 
